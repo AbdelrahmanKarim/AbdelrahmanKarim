@@ -8,6 +8,7 @@ My name is Abdelrahman Karim , I am a computer Science student interested in all
 - 🌱 I’m currently working on [Archivai](https://github.com/ArchiivAI/Android) , building an AI powered document management system application.
 - 💞️ I’m looking to collaborate on building apps and solving new challenges related to IOT and AI powered apps.
 - 📫 Connect with me on linkedIn https://www.linkedin.com/in/abdelrahman-karim/
+-  E-mail abdelrahmankarimwork@gmail.com
 
 #### 💬 I'm a dedicated and passionate Computer Science student. As a skilled native Android developer proficient in Kotlin, I stay consistently updated with the latest technological advancements.
 
